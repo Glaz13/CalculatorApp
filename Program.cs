@@ -44,5 +44,6 @@ class Program
         }
 
         Console.WriteLine($"Результат: {num1} {operation} {num2} = {result}");
+        Console.WriteLine("Это изменение мы потом откатим!");
     }
 }
